@@ -2,3 +2,5 @@
 \.idea/
 
 ecg-files/
+
+.ipynb_checkpoints/
