@@ -11,10 +11,12 @@ Noise siglnas were removed from dataset. Each signal was cut into nine-second si
 ### Model
 
 Generator has BiLSTM layer with 128 units. LeakyReLU activation on hidden convolutionals layers and Tanh activation on output convolutional layer.
+
 Discriminator has LeakyReLU activation on hidden convolutionals layers. Dense layer with 1 unit as ouput.
 
-![Generator](images/generator.png "Generator")
-![Discriminator](images/discriminator.png "Discriminator")
+<img align="left" src="images/generator.png" alt="Generator" width="460"/>
+<img align="right" src="images/discriminator.png" alt="Discriminator" width="400"/>
+
 
 
 ### Results
