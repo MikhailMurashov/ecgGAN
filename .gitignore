@@ -4,3 +4,7 @@
 ecg-files/
 
 .ipynb_checkpoints/
+
+data/
+
+*.png
